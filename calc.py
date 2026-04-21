@@ -2,7 +2,7 @@
 import math
 
 def sqrt(x):
-    return math.sqrt
+    return math.sqrt(x)
 
 def add(a, b):
     return a + b
